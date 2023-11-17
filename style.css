@@ -4,6 +4,14 @@
     text-decoration: none;
     list-style: none;
 }
+.singleline{
+    width: 1350px;
+height: 2px;
+position: absolute;
+border-bottom: 1px solid #FFF; 
+margin-top: 15%;
+margin-left: 8%;
+}
 
 body {
     background-color: black;
@@ -256,6 +264,7 @@ button {
     .hamburger {
         display: block;
         cursor: pointer;
+
     }
 
     .hamburger .line {
