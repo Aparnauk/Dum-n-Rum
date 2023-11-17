@@ -268,7 +268,7 @@ button {
     .hamburger {
         display: block;
         cursor: pointer;
-        margin-right: 30%;
+        
     }
 
     .hamburger .line {
