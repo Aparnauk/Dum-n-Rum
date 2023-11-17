@@ -247,6 +247,7 @@ button {
     }
     .singleline{
       display: none;
+      width: 20px;
     }
     
     nav{
