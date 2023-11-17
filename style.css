@@ -23,7 +23,7 @@ body {
 
 .first {
     width: 95%;
-    height: 800px;
+    height: 860px;
     background-image: url(./images/main\ food.jpeg);
     margin-left: 2.5%;
     background-repeat: no-repeat;
@@ -245,6 +245,9 @@ button {
     body{
         overflow-x: hidden;
     }
+    .singleline{
+      display: none;
+    }
     
     nav{
         height: 90px;
@@ -264,7 +267,6 @@ button {
     .hamburger {
         display: block;
         cursor: pointer;
-
     }
 
     .hamburger .line {
@@ -325,6 +327,7 @@ button {
     /* first page */
     .first-2{
         display: block;
+        
     }
     #first-3{
         display: block;
@@ -337,9 +340,9 @@ button {
         font-size: 20px;
         font-weight: 600;
         line-height: 25px;
-        padding-top: 30%;
+        padding-top: 50%;
         padding-right: 20%;
-
+       
     }
     
     #first-3 h5 span {
